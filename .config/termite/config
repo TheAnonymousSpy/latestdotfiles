@@ -1,0 +1,55 @@
+[options]
+scroll_on_output    = false
+scroll_on_keystroke = true
+audible_bell        = false
+mouse_autohide      = false
+allow_bold          = true
+dynamic_title       = true
+urgent_on_bell      = true
+clickable_url       = true
+font                = Ubuntu Mono 10
+scrollback_lines    = 10000
+search_wrap         = true
+icon_name           = utilities-terminal
+geometry            = 750x500
+clickable_url       = true
+cursor_blink        = system
+cursor_shape        = block
+browser             = exo-open
+filter_unmatched_urls = true
+
+[colors]
+background      = rgba(68,68,68,0.85)
+foreground      = #EFEFEC
+foreground_bold = #EFEFEC
+cursor          = #EFEFEC
+
+# Black, Gray, Silver, White
+color0  = #212121
+color8  = #BDBDBD
+color7  = #EEEEEE
+color15 = #EFEFEC
+
+# Red
+color1  = #D50000
+color9  = #D50000
+
+# Green
+color2  = #00C853
+color10 = #00C853
+
+# Yellow
+color3  = #00B8D4
+color11 = #00B8D4
+
+# Blue
+color4  = #C6FF00
+color12 = #C6FF00
+
+# Purple
+color5  = #1DE9B6
+color13 = #1DE9B6
+
+# Teal
+color6  = #AA00FF
+color14 = #AA00FF
